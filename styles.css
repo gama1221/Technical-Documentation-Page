@@ -1,7 +1,7 @@
 html,
 body {
   min-width: 290px;
-  color: #7c0821;
+  color: #8d0a27;
   background-color: #ffffff;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
@@ -15,7 +15,7 @@ body {
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: rgba(0, 22, 22, 0.4);
+  border-color: rgba(1, 38, 38, 0.4);
 }
 
 header {
@@ -49,7 +49,7 @@ header {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: #0a229c;
+  color: #071b83;
   text-decoration: none;
   cursor: pointer;
 }
@@ -62,7 +62,7 @@ header {
 }
 
 section article {
-  color: #060f3b;
+  color: #071350;
   margin: 15px;
   font-size: 0.96em;
 }
@@ -79,7 +79,7 @@ code {
   word-break: normal;
   word-wrap: normal;
   line-height: 2;
-  background-color: #c4b6b6;
+  background-color: #d5c1c1;
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
@@ -113,7 +113,7 @@ code {
 
 @media only screen and (max-width: 400px) {
   #main-doc {
-    margin-left: -10px;
+    margin-left: -9px;
   }
 
   code {
